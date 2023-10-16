@@ -1,5 +1,5 @@
 {
-  "post":[
+  "posts":[
     {
       "id" : 1,
       "title" : "hello"
@@ -7,7 +7,7 @@
      {
       "id" : 2,
       "title" : "hello world"
-    },
+    }
   ],
   "profile" : {
     "name" : "typicode"
